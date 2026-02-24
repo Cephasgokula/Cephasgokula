@@ -49,6 +49,12 @@ I enjoy working on:
 
 ---
 
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![Go](https://img.shields.io/badge/Go-blue?style=for-the-badge&logo=go)
+![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+
 ## 💼 Work Experience
 
 ### 🏢 Software Developer – TripFactory (Jan 2026 – Present)
