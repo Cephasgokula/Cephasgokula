@@ -1,142 +1,74 @@
 <h1 align="center">Hi 👋, I'm Cephas Gokula</h1>
-<h3 align="center">Backend Engineer | AI Enthusiast | Competitive Programmer</h3>
-
-<p align="center">
-  <a href="mailto:cephasgokula@gmail.com">Email</a> •
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a> •
-  <a href="https://linkedin.com/in/YOUR_LINK">LinkedIn</a> •
-  <a href="https://leetcode.com/YOUR_ID">LeetCode</a>
-</p>
+<h3 align="center">Backend Developer | Full-Stack Engineer | AI Enthusiast</h3>
 
 ---
 
-## 🎓 About Me
+## 🚀 About Me
 
-🎓 B.Tech in Computer Science & Artificial Intelligence  
-📍 Indian Institute of Information Technology, Lucknow (CGPA: 8.0)
+I’m a software developer focused on building scalable and production-ready applications.
 
-I am a software developer passionate about building **scalable backend systems**, 
-AI-powered applications, and solving complex algorithmic problems.
+Currently working as a Software Developer Intern at TripFactory, where I design responsive UI components, integrate RESTful APIs, implement robust state management using Redux Toolkit, and collaborate closely with backend teams to improve performance and reliability.
 
-I enjoy working on:
-- Backend Architecture
-- System Design
-- AI/ML Applications
-- REST API Development
-- Competitive Programming
+I enjoy designing clean backend architectures using Node.js and Express, building full-stack applications with React, and developing AI-powered systems using NLP and deep learning models like BERT, BiLSTM, and BiGRU.
+
+I’m particularly interested in contributing to:
+
+- Backend systems and API design
+- Frontend performance and scalable UI architecture
+- AI/ML and NLP-based applications
+- Open-source engineering projects
+
+I focus on writing maintainable code, optimizing performance, and continuously improving system design skills.
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Programming
-`Python` `Java` `C++` `C` `JavaScript` `SQL`
-
-### 🌐 Web & Backend
-`Node.js` `Express.js` `React.js` `Next.js` `Redux Toolkit`  
-`REST APIs` `GraphQL` `WebSockets` `FastAPI`
-
-### 🤖 AI / ML
-`NLP` `BERT` `BiLSTM` `spaCy` `NLTK`  
-`OpenCV` `Machine Learning Pipelines`
-
-### 🗄 Databases
-`MongoDB` `MySQL`
-
-### ⚙️ Tools
-`Git` `GitHub` `Docker` `Linux`  
-`Google Cloud Platform (GCP)` `CI/CD`
-
----
-
+### 💻 Programming Languages
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 ![Go](https://img.shields.io/badge/Go-blue?style=for-the-badge&logo=go)
 ![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 
-## 💼 Work Experience
+### 🌐 Web & Backend
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Express](https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express)
+![Redux](https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-skyblue?style=for-the-badge&logo=tailwind-css)
 
-### 🏢 Software Developer – TripFactory (Jan 2026 – Present)
+### 🤖 AI / ML
+![NLP](https://img.shields.io/badge/NLP-orange?style=for-the-badge)
+![BERT](https://img.shields.io/badge/BERT-yellow?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
 
-- Built scalable frontend modules using React.js & Tailwind CSS
-- Implemented state management with Redux Toolkit & AsyncThunk
-- Integrated RESTful APIs for product listings and order management
-- Collaborated with backend teams to optimize performance
-- Maintained clean code with Git-based workflows and code reviews
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 Comment Analyzer (NLP Research Tool)
-
-- Processed 10K+ YouTube comments using NLP pipelines
-- Implemented BERT, BiLSTM & BiGRU models for sentiment classification
-- Improved model accuracy by 12% using error analysis & preprocessing strategies
-- Generated visual analytics using Matplotlib, Seaborn & Plotly
-
-**Tech:** Python, NLP, BERT, Deep Learning
-
----
-
-### ✈️ AI Travel Itinerary Application
-
-- Built full-stack travel planner using React + Node.js
-- Integrated Google Gemini API for AI-based itinerary generation
-- Designed scalable REST backend for dynamic trip customization
-- Implemented budget-tier and interest-based personalization
-
-**Tech:** React.js, Node.js, Express, AI APIs
-
----
-
-## 🏆 Competitive Programming
-
-- ⭐ Codeforces Expert (Max Rating: 1654)
-- 🛡 LeetCode Knight (Max Rating: 1846)
-- ⭐ CodeChef 3★ (Max Rating: 1665)
-- Solved 500+ DSA problems
-
----
-
-## 🏅 Achievements
-
-- Top 1% in Flipkart GRiD 6.0 (Software Development Track)
-- Cleared Walmart Sparkathon Level 2
-- Certified in:
-  - Google Cloud ML APIs
-  - Secure GCP Networking
-  - Generative AI
-  - Cisco Data Analytics Essentials
+### 🗄 Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Gokula's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
-## 🎯 2026 Goals
+## 🤝 Open to Collaboration
 
-- Contribute to major open-source projects
-- Strengthen backend system design skills
-- Build production-grade scalable systems
-- Prepare for GSoC & global tech opportunities
+I’m actively looking to contribute to:
 
----
+- Backend open-source systems
+- Scalable full-stack applications
+- AI / NLP projects
+- Performance-focused engineering work
 
-## 📌 Let's Connect
-
-I’m always open to collaborating on:
-- Backend projects
-- AI/ML research ideas
-- Open-source contributions
-- System design discussions
-
-⭐ If you like my work, consider giving a star to my repositories!
+If you’re building something impactful, let’s connect 🚀
